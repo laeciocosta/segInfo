@@ -1,0 +1,4 @@
+segInfo
+=======
+
+Pessoal
